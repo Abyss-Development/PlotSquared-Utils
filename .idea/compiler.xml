@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Utils" />
+        <module name="Legacy" />
+        <module name="Modern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Legacy" target="1.8" />
+      <module name="Modern" target="1.8" />
+      <module name="NBTUtils" target="1.8" />
+      <module name="PlotSquared-Utils" target="1.8" />
+      <module name="Utils" target="1.8" />
+      <module name="v1_10_R1" target="1.8" />
+      <module name="v1_11_R1" target="1.8" />
+      <module name="v1_12_R1" target="1.8" />
+      <module name="v1_13_R1" target="1.8" />
+      <module name="v1_13_R2" target="1.8" />
+      <module name="v1_14_R1" target="1.8" />
+      <module name="v1_15_R1" target="1.8" />
+      <module name="v1_16_R1" target="1.8" />
+      <module name="v1_16_R2" target="1.8" />
+      <module name="v1_16_R3" target="1.8" />
+      <module name="v1_17_R1" target="1.8" />
+      <module name="v1_18_R1" target="1.8" />
+      <module name="v1_9_R2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
