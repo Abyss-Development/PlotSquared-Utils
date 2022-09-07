@@ -1,4 +1,4 @@
-package net.abyssdev.faweutils;
+package net.abyssdev.plotsquared;
 
 import com.plotsquared.core.PlotAPI;
 import com.plotsquared.core.player.PlotPlayer;

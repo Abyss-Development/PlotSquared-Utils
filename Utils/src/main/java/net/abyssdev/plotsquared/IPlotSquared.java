@@ -1,9 +1,7 @@
-package net.abyssdev.faweutils;
+package net.abyssdev.plotsquared;
 
-import org.bukkit.Location;
 import org.bukkit.entity.Player;
 
-import java.io.File;
 import java.util.List;
 
 public interface IPlotSquared {

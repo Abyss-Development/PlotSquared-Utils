@@ -1,4 +1,4 @@
-package net.abyssdev.faweutils;
+package net.abyssdev.plotsquared;
 
 import org.bukkit.Location;
 
